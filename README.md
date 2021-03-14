@@ -1,10 +1,12 @@
 # Company Analysis sqlalchemy
 Analyzes company data using sqlalchemy and Python.
 
-### Instructions:
+## Instructions:
 Ensure you have the modules used in the ipynb files installed in your environment. Run JpNbBonus.ipynb in jupyter notebooks.
 
-### Visual:
+## Visuals:
+
+### Python
 ![](images/CompanyAnalysisExample.png)
 
 ### Structure
